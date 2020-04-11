@@ -85,7 +85,7 @@ donate:
 deploy:
   type: git
   repository: git@github.com:haibingtown/haibingtown.github.io.git 
-  branch: hexo
+  branch: master
 
 menu:
   - page: home
