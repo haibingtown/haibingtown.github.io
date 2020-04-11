@@ -84,8 +84,8 @@ donate:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://github.com/haibingtown/haibingtown.github.io.git 
-  branch: master
+  repository: git@github.com:haibingtown/haibingtown.github.io.git 
+  branch: hexo
 
 menu:
   - page: home
